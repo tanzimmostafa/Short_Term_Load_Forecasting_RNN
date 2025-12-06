@@ -1,9 +1,10 @@
 # Short_Term_Load_Forecasting_Project
 
 This repository contains the code and dataset used for our research paper on: "Short-Term Load Forecasting Employing Recurrent Neural Networks". 
-The code includes implementation of our implementation of an LSTM and GRU model. The dataset used is our enhanced version of the ERCOT (Electric Reliability Council of Texas) dataset focused on the West region.
 
 Here's the link to the research paper on IEEE: https://ieeexplore.ieee.org/abstract/document/10577742
+
+The code includes implementation of our implementation of an LSTM and GRU model. The dataset used is our enhanced version of the ERCOT (Electric Reliability Council of Texas) dataset focused on the West region.
 
 Breif description about the project:
 
