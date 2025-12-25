@@ -1,4 +1,4 @@
-# Short Term Load Forecasting employing RNNs
+# Short Term Load Forecasting using RNNs
 
 This repository contains the code and dataset used for our research paper on: "Short-Term Load Forecasting Employing Recurrent Neural Networks". 
 
